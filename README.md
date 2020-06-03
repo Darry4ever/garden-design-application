@@ -14,7 +14,7 @@ Flowerbeds display rows of flowers. They can be all the same, or mixed.
 
 • If mixed, they could be in patterns, or random. 
 
-## It have the following functionality from a menu input system: 
+## It has the following functionality from a menu input system: 
 
 • Flowerbed Display 
 This is a JFrame window, containing a number of components (panels). Each component is a flowerbed displaying flowers, as shown in the example screenshot above. The number of rows and columns depends on the size of the flower images. When flowerbeds are added and removed, the display should be updated. 
