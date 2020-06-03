@@ -1,0 +1,3 @@
+ImageDisplay, myX=100, myY=100, myWidth=100, myHeight=100, myPath=grass.png,myNo=2
+ImageDisplay, myX=300, myY=300, myWidth=100, myHeight=100, myPath=grass.png,myNo=3
+ImageDisplay, myX=300, myY=100, myWidth=100, myHeight=100, myPath=grass.png,myNo=4
